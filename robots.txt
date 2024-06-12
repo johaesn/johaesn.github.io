@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://johaesn.github.io/sitemap/sitemap.txt
